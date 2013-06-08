@@ -1,0 +1,23 @@
+body{
+  margin: 0;
+}
+
+#main{
+  position: absolute;
+  height: 100%;
+  width:100%;
+  overflow: hidden;
+}
+
+.big_button{
+  width:50%;
+  height:100%;
+  float: left;
+}
+
+#button_left{
+  background-color: #999;
+}
+#button_right{
+  background-color: #333;
+}

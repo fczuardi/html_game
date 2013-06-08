@@ -1,0 +1,16 @@
+{
+  "version": "0.1",
+  "name": "Sound!",
+  "description": "A 2 button sample app demoing how to play audio files.",
+  "launch_path": "/app.html",
+  "icons": {
+    "128": "/img/icons/app_128.png"
+  },
+  "developer": {
+    "name": "mnmo : Fabricio and Mauricio Zuardi",
+    "url": "http://mnmo.com.br"
+  },
+  "fullscreen": "true",
+  "installs_allowed_from": ["*"],
+  "orientation": ["landscape"]
+}
