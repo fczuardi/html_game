@@ -11,6 +11,5 @@
     "url": "http://mnmo.com.br"
   },
   "fullscreen": "true",
-  "installs_allowed_from": ["*"],
-  "orientation": ["landscape"]
+  "installs_allowed_from": ["*"]
 }
