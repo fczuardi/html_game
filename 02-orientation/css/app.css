@@ -1,0 +1,20 @@
+body{
+  margin: 0;
+}
+#orientation_display{
+  position: absolute;
+  width: 100%;
+  border:1px solid black;
+}
+#orientation_display td{
+  width:30%;
+  overflow: hidden;
+  display: inline-block;
+  border:1px solid black;
+}
+#compass_image{
+  position: absolute;
+  width:50%;
+  top:100px;
+  left: 25%;
+}

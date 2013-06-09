@@ -1,0 +1,16 @@
+{
+  "version": "0.1",
+  "name": "Orientation!",
+  "description": "A sample web app using device orientation event and request animation frame.",
+  "launch_path": "/app.html",
+  "icons": {
+    "128": "/img/icons/app_128.png"
+  },
+  "developer": {
+    "name": "mnmo : Fabricio and Mauricio Zuardi",
+    "url": "http://mnmo.com.br"
+  },
+  "fullscreen": "true",
+  "installs_allowed_from": ["*"],
+  "orientation": ["landscape"]
+}
