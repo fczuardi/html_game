@@ -1,0 +1,24 @@
+body{
+  margin:0;
+}
+#main,
+#input_log,
+#output_light{
+  position: absolute;
+  height:100%;
+  width:100%;
+}
+#main.off #input_log,
+#main.on #output_light{
+  display: none;
+}
+#main.on #input_log,
+#main.off #output_light{
+  display: block;
+}
+#main.off #output_light{
+  background-color: #000;
+}
+#main.gray #output_light{
+  background-color: #333;
+}

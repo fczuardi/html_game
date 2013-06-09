@@ -1,0 +1,15 @@
+{
+  "version": "0.1",
+  "name": "Ambient Light!",
+  "description": "A sample web app using ambient light detection.",
+  "launch_path": "/app.html",
+  "icons": {
+    "128": "/img/icons/app_128.png"
+  },
+  "developer": {
+    "name": "mnmo : Fabricio and Mauricio Zuardi",
+    "url": "http://mnmo.com.br"
+  },
+  "fullscreen": "true",
+  "installs_allowed_from": ["*"]
+}
